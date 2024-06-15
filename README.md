@@ -164,7 +164,7 @@ GamerHub is released under the [MIT License](https://opensource.org/licenses/MIT
 ## Authors
 
 - Victor Kaycee <victorkaycee@gamer-hub.io>
-- Milan Jansen <donjosy305@gmail.com>
+- Oyase-shinobi <donjosy305@gmail.com>
 
 ## Acknowledgments
 
